@@ -1,0 +1,8 @@
+J:\Tutorials\nEUPMenuSource\nEUP-Menu-Client\nEUP-Menu-Client\bin\Debug\nEUP-Menu-Client.dll
+J:\Tutorials\nEUPMenuSource\nEUP-Menu-Client\nEUP-Menu-Client\bin\Debug\nEUP-Menu-Client.pdb
+J:\Tutorials\nEUPMenuSource\nEUP-Menu-Client\nEUP-Menu-Client\bin\Debug\CitizenFX.Core.Client.dll
+J:\Tutorials\nEUPMenuSource\nEUP-Menu-Client\nEUP-Menu-Client\bin\Debug\CitizenFX.Core.Client.xml
+J:\Tutorials\nEUPMenuSource\nEUP-Menu-Client\nEUP-Menu-Client\obj\Debug\nEUP-Menu-Client.csproj.CoreCompileInputs.cache
+J:\Tutorials\nEUPMenuSource\nEUP-Menu-Client\nEUP-Menu-Client\obj\Debug\nEUP-Menu-Client.csproj.CopyComplete
+J:\Tutorials\nEUPMenuSource\nEUP-Menu-Client\nEUP-Menu-Client\obj\Debug\nEUP-Menu-Client.dll
+J:\Tutorials\nEUPMenuSource\nEUP-Menu-Client\nEUP-Menu-Client\obj\Debug\nEUP-Menu-Client.pdb

@@ -1,0 +1,13 @@
+J:\Tutorials\nEUPMenuSource\nEUP-Menu-Server\nEUP-Menu-Server\bin\Debug\nEUP-Menu-Server.dll.config
+J:\Tutorials\nEUPMenuSource\nEUP-Menu-Server\nEUP-Menu-Server\bin\Debug\nEUP-Menu-Server.dll
+J:\Tutorials\nEUPMenuSource\nEUP-Menu-Server\nEUP-Menu-Server\bin\Debug\nEUP-Menu-Server.pdb
+J:\Tutorials\nEUPMenuSource\nEUP-Menu-Server\nEUP-Menu-Server\bin\Debug\CitizenFX.Core.Server.dll
+J:\Tutorials\nEUPMenuSource\nEUP-Menu-Server\nEUP-Menu-Server\bin\Debug\MySql.Data.dll
+J:\Tutorials\nEUPMenuSource\nEUP-Menu-Server\nEUP-Menu-Server\bin\Debug\Newtonsoft.Json.dll
+J:\Tutorials\nEUPMenuSource\nEUP-Menu-Server\nEUP-Menu-Server\bin\Debug\CitizenFX.Core.Server.xml
+J:\Tutorials\nEUPMenuSource\nEUP-Menu-Server\nEUP-Menu-Server\bin\Debug\Newtonsoft.Json.xml
+J:\Tutorials\nEUPMenuSource\nEUP-Menu-Server\nEUP-Menu-Server\obj\Debug\nEUP-Menu-Server.csproj.CoreCompileInputs.cache
+J:\Tutorials\nEUPMenuSource\nEUP-Menu-Server\nEUP-Menu-Server\obj\Debug\nEUP-Menu-Server.csproj.CopyComplete
+J:\Tutorials\nEUPMenuSource\nEUP-Menu-Server\nEUP-Menu-Server\obj\Debug\nEUP-Menu-Server.dll
+J:\Tutorials\nEUPMenuSource\nEUP-Menu-Server\nEUP-Menu-Server\obj\Debug\nEUP-Menu-Server.pdb
+J:\Tutorials\nEUPMenuSource\nEUP-Menu-Server\nEUP-Menu-Server\obj\Debug\nEUP-Menu-Server.csproj.AssemblyReference.cache
