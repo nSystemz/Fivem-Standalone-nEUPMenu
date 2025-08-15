@@ -17,8 +17,8 @@ Support: https://discord.nemesus.de
 Homepage: https://nemesus.de
 
 Dependencies: 
-eup-stream: https://mega.nz/file/Bm4FnKBL#HwDY21vljWzlF0GoN2dDQ7j8_isg0up7P7xIGb6k2vY
-mysql-async: https://github.com/brouznouf/fivem-mysql-async
+- eup-stream: https://mega.nz/file/Bm4FnKBL#HwDY21vljWzlF0GoN2dDQ7j8_isg0up7P7xIGb6k2vY
+- mysql-async: https://github.com/brouznouf/fivem-mysql-async
 
 ☕ Want to support us? https://ko-fi.com/nemesustv ☕
 
