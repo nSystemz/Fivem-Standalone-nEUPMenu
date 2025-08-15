@@ -23,5 +23,3 @@ Dependencies:
 ☕ Want to support us? https://ko-fi.com/nemesustv ☕
 
 Have fun with this resource!
-
-Do you want me to also rewrite it in a more polished and professional style for GitHub or a release page? That way it would read more like an official resource description.
